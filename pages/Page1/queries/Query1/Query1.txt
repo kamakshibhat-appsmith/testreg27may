@@ -1,0 +1,1 @@
+SELECT * FROM public."astronauts" LIMIT {{this.params.limit}};
